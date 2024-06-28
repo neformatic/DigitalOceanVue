@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fb5b3bb7-7b20-44bd-bd24-bae465e52f59")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalOceanWeb.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a6653f8785bbb53603c5d5f4760efde11856dee")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalOceanWeb.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalOceanWeb.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
